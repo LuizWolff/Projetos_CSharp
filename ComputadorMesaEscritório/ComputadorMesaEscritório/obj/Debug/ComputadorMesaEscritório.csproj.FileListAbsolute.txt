@@ -1,0 +1,7 @@
+D:\Microsoft Visual Studio 2022\Projetos\ComputadorMesaEscritório\ComputadorMesaEscritório\bin\Debug\ComputadorMesaEscritório.exe.config
+D:\Microsoft Visual Studio 2022\Projetos\ComputadorMesaEscritório\ComputadorMesaEscritório\bin\Debug\ComputadorMesaEscritório.exe
+D:\Microsoft Visual Studio 2022\Projetos\ComputadorMesaEscritório\ComputadorMesaEscritório\bin\Debug\ComputadorMesaEscritório.pdb
+D:\Microsoft Visual Studio 2022\Projetos\ComputadorMesaEscritório\ComputadorMesaEscritório\obj\Debug\ComputadorMesaEscritório.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio 2022\Projetos\ComputadorMesaEscritório\ComputadorMesaEscritório\obj\Debug\ComputadorMesaEscritório.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio 2022\Projetos\ComputadorMesaEscritório\ComputadorMesaEscritório\obj\Debug\ComputadorMesaEscritório.exe
+D:\Microsoft Visual Studio 2022\Projetos\ComputadorMesaEscritório\ComputadorMesaEscritório\obj\Debug\ComputadorMesaEscritório.pdb
